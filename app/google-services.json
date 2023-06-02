@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "978433120796",
+    "firebase_url": "https://pro-vpn-2021-android-442b5-default-rtdb.firebaseio.com",
+    "project_id": "pro-vpn-2021-android-442b5",
+    "storage_bucket": "pro-vpn-2021-android-442b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978433120796:android:beaa48fbd80be3f983ddd9",
+        "android_client_info": {
+          "package_name": "com.PushNotificationsWithFcm.byIctFoysal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978433120796-qfll363bmr4k7hg6brvjurhpot6qc4b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXH3IX-IJhKFm1pbR0SY2ymSAab_Ovfgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978433120796-qfll363bmr4k7hg6brvjurhpot6qc4b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978433120796:android:1ca5d40a1a2e15a183ddd9",
+        "android_client_info": {
+          "package_name": "com.foysaltech.appremotelycontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978433120796-81ms8ngghpr9ghscjhdg0vsqsc3ides9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foysaltech.appremotelycontrol",
+            "certificate_hash": "9ecd2608252f20dba87840d9e3f1c295aa729d53"
+          }
+        },
+        {
+          "client_id": "978433120796-qfll363bmr4k7hg6brvjurhpot6qc4b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXH3IX-IJhKFm1pbR0SY2ymSAab_Ovfgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978433120796-qfll363bmr4k7hg6brvjurhpot6qc4b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
